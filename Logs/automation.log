@@ -1,0 +1,110 @@
+12/27/2021 01:04:39 PM - Test_001_Login - INFO - ************************ Test_001_Login ****************************
+12/27/2021 01:04:39 PM - Test_001_Login - INFO - ******************** Verify Home Page Title ************************
+12/27/2021 01:04:43 PM - Test_001_Login - INFO - ************************ Home Page Title Test is Passed ****************************
+12/27/2021 01:04:45 PM - Test_001_Login - INFO - ************************ Verify Login Test ****************************
+12/27/2021 01:04:52 PM - Test_001_Login - INFO - ************************ Login Test is Passed ****************************
+12/27/2021 01:42:21 PM - Test_001_Login - INFO - ************************ Test_001_Login ****************************
+12/27/2021 01:42:21 PM - Test_001_Login - INFO - ******************** Verify Home Page Title ************************
+12/27/2021 01:42:26 PM - Test_001_Login - INFO - ************************ Home Page Title Test is Passed ****************************
+12/27/2021 01:42:32 PM - Test_001_Login - INFO - ************************ Verify Login Test ****************************
+12/27/2021 01:42:43 PM - Test_001_Login - INFO - ************************ Login Test is Passed ****************************
+12/27/2021 01:48:02 PM - Test_001_Login - INFO - ************************ Test_001_Login ****************************
+12/27/2021 01:48:02 PM - Test_001_Login - INFO - ******************** Verify Home Page Title ************************
+12/27/2021 01:48:13 PM - Test_001_Login - INFO - ************************ Home Page Title Test is Passed ****************************
+12/27/2021 01:48:15 PM - Test_001_Login - INFO - ************************ Verify Login Test ****************************
+12/27/2021 01:48:40 PM - Test_001_Login - INFO - ************************ Login Test is Passed ****************************
+12/27/2021 01:51:32 PM - Test_001_Login - INFO - ************************ Test_001_Login ****************************
+12/27/2021 01:51:32 PM - Test_001_Login - INFO - ******************** Verify Home Page Title ************************
+12/27/2021 01:51:36 PM - Test_001_Login - INFO - ************************ Home Page Title Test is Passed ****************************
+12/27/2021 01:51:37 PM - Test_001_Login - INFO - ************************ Verify Login Test ****************************
+12/27/2021 01:51:48 PM - Test_001_Login - INFO - ************************ Login Test is Passed ****************************
+12/27/2021 02:06:53 PM - Test_001_Login - INFO - ************************ Verify Login Test ****************************
+12/27/2021 02:06:53 PM - Test_001_Login - INFO - ************************ Test_001_Login ****************************
+12/27/2021 02:06:53 PM - Test_001_Login - INFO - ******************** Verify Home Page Title ************************
+12/27/2021 02:06:57 PM - Test_001_Login - INFO - ************************ Home Page Title Test is Passed ****************************
+12/27/2021 02:07:00 PM - Test_001_Login - INFO - ************************ Login Test is Passed ****************************
+12/27/2021 02:31:05 PM - Test_001_Login - INFO - ************************ Verify Login Test ****************************
+12/27/2021 02:31:05 PM - Test_001_Login - INFO - ************************ Test_001_Login ****************************
+12/27/2021 02:31:05 PM - Test_001_Login - INFO - ******************** Verify Home Page Title ************************
+12/27/2021 02:31:09 PM - Test_001_Login - INFO - ************************ Home Page Title Test is Passed ****************************
+12/27/2021 02:31:12 PM - Test_001_Login - INFO - ************************ Login Test is Passed ****************************
+12/27/2021 02:39:21 PM - Test_001_Login - INFO - ************************ Test_001_Login ****************************
+12/27/2021 02:39:21 PM - Test_001_Login - INFO - ************************ Verify Login Test ****************************
+12/27/2021 02:39:21 PM - Test_001_Login - INFO - ******************** Verify Home Page Title ************************
+12/27/2021 02:39:25 PM - Test_001_Login - INFO - ************************ Home Page Title Test is Passed ****************************
+12/27/2021 02:39:30 PM - Test_001_Login - INFO - ************************ Login Test is Passed ****************************
+12/27/2021 05:54:32 PM - Test_002_DDT_Login - INFO - ************************ Test_002_DDT_Login ****************************
+12/27/2021 05:54:32 PM - Test_002_DDT_Login - INFO - ************************ Verify Login DDT Test ****************************
+12/27/2021 05:57:19 PM - Test_002_DDT_Login - INFO - ************************ Test_002_DDT_Login ****************************
+12/27/2021 05:57:19 PM - Test_002_DDT_Login - INFO - ************************ Verify Login DDT Test ****************************
+12/27/2021 05:57:29 PM - Test_002_DDT_Login - INFO - ********** Fail ***********
+12/27/2021 06:20:14 PM - Test_002_DDT_Login - INFO - ************************ Test_002_DDT_Login ****************************
+12/27/2021 06:20:14 PM - Test_002_DDT_Login - INFO - ************************ Verify Login DDT Test ****************************
+12/27/2021 06:20:32 PM - Test_002_DDT_Login - INFO - ********** Pass ***********
+12/27/2021 06:20:42 PM - Test_002_DDT_Login - INFO - ********** Pass *************
+12/27/2021 06:20:49 PM - Test_002_DDT_Login - INFO - ********** Pass *************
+12/27/2021 06:20:56 PM - Test_002_DDT_Login - INFO - ********** Pass *************
+12/27/2021 06:20:56 PM - Test_002_DDT_Login - INFO - *********Login DDT test is Passed ***********
+12/27/2021 06:20:56 PM - Test_002_DDT_Login - INFO - ******* End of Login DDT Test **********
+12/27/2021 06:20:56 PM - Test_002_DDT_Login - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+12/29/2021 01:03:50 PM - Test_002_DDT_Login - INFO - ************************ Test_002_DDT_Login ****************************
+12/29/2021 01:03:50 PM - Test_002_DDT_Login - INFO - ************************ Verify Login DDT Test ****************************
+12/29/2021 01:04:13 PM - Test_002_DDT_Login - INFO - ********** Pass ***********
+12/29/2021 01:04:20 PM - Test_002_DDT_Login - INFO - ********** Pass *************
+12/29/2021 01:04:27 PM - Test_002_DDT_Login - INFO - ********** Pass *************
+12/29/2021 01:04:33 PM - Test_002_DDT_Login - INFO - ********** Pass *************
+12/29/2021 01:04:33 PM - Test_002_DDT_Login - INFO - *********Login DDT test is Passed ***********
+12/29/2021 01:04:33 PM - Test_002_DDT_Login - INFO - ******* End of Login DDT Test **********
+12/29/2021 01:04:33 PM - Test_002_DDT_Login - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+12/29/2021 01:14:02 PM - Test_003_AddCustomer - INFO - ************* Test_003_AddCustomer **********
+12/29/2021 01:14:13 PM - Test_003_AddCustomer - INFO - ************* Login succesful **********
+12/29/2021 01:14:13 PM - Test_003_AddCustomer - INFO - ******* Starting Add Customer Test **********
+12/29/2021 01:14:14 PM - Test_001_Login - INFO - ************************ Test_001_Login ****************************
+12/29/2021 01:14:14 PM - Test_001_Login - INFO - ******************** Verify Home Page Title ************************
+12/29/2021 01:14:19 PM - Test_001_Login - INFO - ************************ Home Page Title Test is Passed ****************************
+12/29/2021 01:14:20 PM - Test_001_Login - INFO - ************************ Verify Login Test ****************************
+12/29/2021 01:14:30 PM - Test_001_Login - INFO - ************************ Login Test is Passed ****************************
+12/29/2021 01:14:31 PM - Test_002_DDT_Login - INFO - ************************ Test_002_DDT_Login ****************************
+12/29/2021 01:14:31 PM - Test_002_DDT_Login - INFO - ************************ Verify Login DDT Test ****************************
+12/29/2021 01:14:40 PM - Test_002_DDT_Login - INFO - ********** Pass ***********
+12/29/2021 01:14:47 PM - Test_002_DDT_Login - INFO - ********** Pass *************
+12/29/2021 01:14:53 PM - Test_002_DDT_Login - INFO - ********** Pass *************
+12/29/2021 01:14:59 PM - Test_002_DDT_Login - INFO - ********** Pass *************
+12/29/2021 01:14:59 PM - Test_002_DDT_Login - INFO - *********Login DDT test is Passed ***********
+12/29/2021 01:14:59 PM - Test_002_DDT_Login - INFO - ******* End of Login DDT Test **********
+12/29/2021 01:14:59 PM - Test_002_DDT_Login - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+12/29/2021 01:22:23 PM - Test_003_AddCustomer - INFO - ************* Test_003_AddCustomer **********
+12/29/2021 01:22:27 PM - Test_003_AddCustomer - INFO - ************* Login succesful **********
+12/29/2021 01:22:27 PM - Test_003_AddCustomer - INFO - ******* Starting Add Customer Test **********
+12/29/2021 01:22:31 PM - Test_003_AddCustomer - INFO - ************* Providing customer info **********
+12/29/2021 01:22:43 PM - Test_003_AddCustomer - INFO - ************* Saving customer info **********
+12/29/2021 01:22:43 PM - Test_003_AddCustomer - INFO - ********* Add customer Test Passed *********
+12/29/2021 01:22:47 PM - Test_003_AddCustomer - INFO - ******* Ending Add customer test **********
+12/29/2021 01:22:49 PM - Test_001_Login - INFO - ************************ Test_001_Login ****************************
+12/29/2021 01:22:49 PM - Test_001_Login - INFO - ******************** Verify Home Page Title ************************
+12/29/2021 01:22:53 PM - Test_001_Login - INFO - ************************ Home Page Title Test is Passed ****************************
+12/29/2021 01:22:54 PM - Test_001_Login - INFO - ************************ Verify Login Test ****************************
+12/29/2021 01:22:59 PM - Test_001_Login - INFO - ************************ Login Test is Passed ****************************
+12/29/2021 01:23:01 PM - Test_002_DDT_Login - INFO - ************************ Test_002_DDT_Login ****************************
+12/29/2021 01:23:01 PM - Test_002_DDT_Login - INFO - ************************ Verify Login DDT Test ****************************
+12/29/2021 01:23:13 PM - Test_002_DDT_Login - INFO - ********** Pass ***********
+12/29/2021 01:23:22 PM - Test_002_DDT_Login - INFO - ********** Pass *************
+12/29/2021 01:23:27 PM - Test_002_DDT_Login - INFO - ********** Pass *************
+12/29/2021 01:23:33 PM - Test_002_DDT_Login - INFO - ********** Pass *************
+12/29/2021 01:23:33 PM - Test_002_DDT_Login - INFO - *********Login DDT test is Passed ***********
+12/29/2021 01:23:33 PM - Test_002_DDT_Login - INFO - ******* End of Login DDT Test **********
+12/29/2021 01:23:33 PM - Test_002_DDT_Login - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+12/30/2021 10:53:29 AM - Test_003_AddCustomer - INFO - ************* Test_003_AddCustomer **********
+12/30/2021 10:53:46 AM - Test_003_AddCustomer - INFO - ************* Login succesful **********
+12/30/2021 10:53:46 AM - Test_003_AddCustomer - INFO - ******* Starting Add Customer Test **********
+12/30/2021 10:53:49 AM - Test_003_AddCustomer - INFO - ************* Providing customer info **********
+12/30/2021 10:54:01 AM - Test_003_AddCustomer - INFO - ************* Saving customer info **********
+12/30/2021 10:54:02 AM - Test_003_AddCustomer - INFO - ********* Add customer Test Passed *********
+12/30/2021 10:54:02 AM - Test_003_AddCustomer - INFO - ******* Ending Add customer test **********
+12/30/2021 10:54:04 AM - Test_001_Login - INFO - ************************ Verify Login Test ****************************
+12/30/2021 10:54:17 AM - Test_001_Login - INFO - ************************ Login Test is Passed ****************************
+12/30/2021 10:54:57 AM - Test_001_Login - INFO - ************************ Test_001_Login ****************************
+12/30/2021 10:54:57 AM - Test_001_Login - INFO - ******************** Verify Home Page Title ************************
+12/30/2021 10:55:02 AM - Test_001_Login - INFO - ************************ Home Page Title Test is Passed ****************************
+12/30/2021 10:55:04 AM - Test_001_Login - INFO - ************************ Verify Login Test ****************************
+12/30/2021 10:55:12 AM - Test_001_Login - INFO - ************************ Login Test is Passed ****************************
